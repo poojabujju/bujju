@@ -4,7 +4,7 @@
     int i;
     int grt;
     printf("Enter ten values:");
-    //Store 10 numbers in an array
+   
     for (i = 0; i < 10; i++) {
     	scanf("%d", &a[i]);
     }
